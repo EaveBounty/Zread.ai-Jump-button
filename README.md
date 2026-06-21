@@ -45,5 +45,5 @@
 
 ## 📄 开源协议
 
-MIT © [QuietPeng](https://github.com/QuietPeng)
+MIT © 长沙市果垂素宇工程设计有限公司
 
